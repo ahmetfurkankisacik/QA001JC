@@ -9,6 +9,7 @@ d) AudiA4 Class'i, Motor interface'i icindeki tum methodlari override etmek zoru
 oldugundan method'larin bas kismina 'override' yazmak gerekmez bu yuzden yazmayiz.
 e) Class icinde access modifier yazilmazsa default kabul edildiginden, mecbur public yazariz
 */
+<<<<<<< HEAD
 /*8) Abstract Class ile Interface arasindaki farklar nelerdir?
 
 a) Abstract class'lar hem abstract method hemde concrete methodlar icerebilir.
@@ -26,6 +27,8 @@ e) Abstract class'larda constructor vardir (concrete bir method bu constructor'u
 override edebilir) ama object uretemez, interface'lerde constructur yoktur,bu yuzden object uretilemez*/
 
 
+=======
+>>>>>>> origin/master
 
     //motor interface'inden override edilenler
     @Override

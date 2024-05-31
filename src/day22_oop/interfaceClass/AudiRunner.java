@@ -13,8 +13,12 @@ a4.esp();//Audi A4 ESP fren sistemi kullanir
         s5.abs();//Audi S5 ABS fren sistemi kullanır
         ((Motor)s5).run();//Audi S5 lazer far calistirdi
         System.out.println(((Fren)s5).fiyat);//belirsizlik//2000
+<<<<<<< HEAD
         Motor.hiz();
         a4.guc();
+=======
+
+>>>>>>> origin/master
         System.out.println(Fren.fiyat);
 
 
